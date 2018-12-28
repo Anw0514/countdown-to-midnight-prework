@@ -2,5 +2,6 @@
 
 def countdown
   gets num
-  while num 
+  while num >= 1
+  puts "#{num} SECONDS!"
 end
