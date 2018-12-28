@@ -3,5 +3,5 @@
 def countdown
   gets num
   while num >= 1
-  puts "#{num} SECONDS!"
+  puts "#{num} SECOND(S)!"
 end
